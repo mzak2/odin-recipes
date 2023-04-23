@@ -1,20 +1,16 @@
 .heading {
 	color: red;
 	text-align: center;
-	font-size: 72px;
+	font-size: 56px;
 }
 
-li{
+li {
 	font-size: 24px;
 	font-family: Verdana, "Times New Roman", sans-serif;
 }
 
-li.pizza {
-	background-color: RGB(200,200,250);
+li.recipe:hover{
 	font-size: 48px;
 	font-family: Arial;
-	/* margin: 0px;
-	padding-left: 20px;
-	background-image: src="./img/pizza.webp" alt="Picture of Margeherita Pizza";
-		background-repeat: no-repeat; */
+	background-color: RGB(200,200,200);
 }
