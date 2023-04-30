@@ -1,8 +1,110 @@
-.heading {
-	color: red;
+/* Logo header with 3 links, it will scroll with user */
+.header_background {/*applies to upper section as well */
+	background-color: rgb(12, 12, 65);
+	color: white;
+	padding: 16px;
+}
+
+.header {
+	border: 5px solid red;
+	display: flex;
+	justify-content: space-between;
+	align-items: center
+}
+
+.header ul {
+	display: flex;
+	justify-content: space-between;
+	margin: 8px;
+	gap: 8px;
+}
+
+.header ul li a {
+	text-decoration: none;
+	color: white;
+	list-style-type: none;
+	font-size: 16px;
+}
+
+.header ul li {
+	list-style-type: none;
+	display: flex;
+}
+
+/* content with the sign up button and image */
+
+.upper {
+	border: 5px solid blue;
+	display: flex;
+	justify-content: center;
+	align-items: flex-start;
+	margin: 32px;
+	
+}
+
+.intro {
+	font-weight: bold;
 	text-align: center;
 	font-size: 56px;
 }
+
+.upper_content {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-start;
+	max-width: 300px;
+	gap: 4px;
+}
+
+.upper img {
+	width: 250px;
+	max-height: 150px;
+}
+
+/* content and links for the recipes that will be card shaped */
+.box_content {
+	display: flex;
+	justify-content: space-around;
+	margin: 32px;
+}
+ 
+.box_content ul {
+	display: flex;
+	justify-content: space-between;
+	margin: 8px;
+	padding: 32px;
+	gap: 8px;
+}
+
+.box_content ul li {
+	list-style-type: none;
+	display: flex;
+}
+
+/* Quote content from users of this site */
+.quote_container {
+	background-color: rgb(180, 180, 180);
+}
+
+.quote {
+	
+	display: flex;
+	justify-content: center;
+	text-align: left;
+	align-items: flex-start;
+	flex-direction: column;
+	width: max-content;
+	margin: auto;
+	gap: 4px;
+}
+
+.quote p {
+	text-align: right;
+	margin-left: 200px;
+	margin-bottom: 8px;
+}
+
+/*general formating for commonly used tags */
 
 li {
 	font-size: 24px;
@@ -13,4 +115,14 @@ li.recipe:hover{
 	font-size: 48px;
 	font-family: Arial;
 	background-color: RGB(200,200,200);
+}
+
+h3, p {
+	margin: 0px;
+}
+
+button {
+	background-color: rgb(47, 104, 190);
+	color: white;
+	border-radius: 5px;
 }
