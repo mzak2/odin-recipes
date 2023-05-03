@@ -147,13 +147,31 @@
 	/*border: 5px solid blue;*/
 }
 
-/* Pizza Section */
-.dough, .sauce, .baking {
+/* Pizza, Sliders, Chilimac Section */
+.ingredients_content, .cooking_content, .assembly_content {
 	display: flex;
 	flex-direction: column;
-	margin: 32px 32px 32px 128px;
+	margin: 32px 32px 32px 48px;
 }
 
+.ingredients, .cooking, .assembly {
+	display: flex;
+	align-items: center;
+}
+
+.ingredients img, .cooking img, .assembly img {
+	width: 500px;
+	max-height: 450px;
+	margin-left: 32px;
+	border-radius: 5px;
+}
+
+/*.baking img {
+	width: 500px;
+	max-height: 450px;
+	
+	border-radius: 5px;
+}*/
 
 
 /*general formating for commonly used tags */
