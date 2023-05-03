@@ -190,7 +190,7 @@ ul li img{
  li {
 	font-size: 24px;
 	font-family: Verdana, "Times New Roman", sans-serif;
-	
+	margin-bottom: 8px;
 }
 
 li.recipe:hover{
