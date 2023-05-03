@@ -18,7 +18,7 @@
 .header ul {
 	display: flex;
 	justify-content: space-between;
-	gap: 8px;
+	gap: 16px;
 }
 
 .header ul li a {
