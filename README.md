@@ -7,6 +7,9 @@ We will create a well-styled website that functions as a cook book.
 ----image of pizza_sauce: Alesia Kozik https://www.pexels.com/photo/close-up-shot-of-a-pizza-sauce-in-a-glass-pitcher-6064806/
 ----image of pizza_dough: Malidate Van https://www.pexels.com/photo/person-making-dough-784633/
 ----image of pulled pork slider: Vékony Richard https://www.pexels.com/photo/brown-bread-on-white-ceramic-plate-7181419/
+----image of pulled pork slider_2: Kampus Production https://www.pexels.com/photo/cook-putting-fried-pork-on-bun-for-burger-5920635/
+----image of pulled pork slider_sauce: Kampus Production https://www.pexels.com/photo/chef-preparing-burger-with-fried-pork-and-sauce-5920642/
+----image of pulled pork: Alesia Kozik https://www.pexels.com/photo/a-plate-of-pulled-pork-on-top-of-a-pasta-6072099/
 ----image of chilimac:Atharva Lele https://unsplash.com/photos/-CK_Fv1RNUo
 ----image of chili: Naim Benjelloun https://www.pexels.com/photo/meat-dish-1618906/
 ----image of mac: Hayden Walker https://www.pexels.com/photo/overhead-shot-of-a-plate-of-mac-and-cheese-9397238/

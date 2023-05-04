@@ -173,6 +173,22 @@
 	border-radius: 5px;
 }*/
 
+/* sign up sheet */
+.sign_up_content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding: 32px;
+	margin: 32px;
+	gap: 8px;
+}
+
+.sign_up_content input {
+	align-items: center;
+	width: 350px;
+	height: 40px;
+}
 
 /*general formating for commonly used tags */
 
