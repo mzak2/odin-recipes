@@ -1,4 +1,4 @@
-![](odin-recipes-website.jpg)
+![](odin-recipes-website.JPG)
 
 # odin-recipes
 We will create a well-styled website that functions as a cook book. A project where we are given a color scheme and some minimum functionality requirements, and then build a website from scratch based on that criteria.
